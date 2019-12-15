@@ -1,0 +1,9 @@
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\bin\Debug\netcoreapp3.1\BackgroundWorker.exe
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\obj\Debug\netcoreapp3.1\BackgroundWorker.csprojAssemblyReference.cache
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\obj\Debug\netcoreapp3.1\BackgroundWorker.AssemblyInfoInputs.cache
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\obj\Debug\netcoreapp3.1\BackgroundWorker.AssemblyInfo.cs
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\obj\Debug\netcoreapp3.1\BackgroundWorker.csproj.CopyComplete
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\User\3D Objects\DATC-2019-master\Andricsak\Proiect\AnimalDanger\BackgroundWorker\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
